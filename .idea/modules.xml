@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/assigned/assigned.iml" filepath="$PROJECT_DIR$/assigned/assigned.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding.iml" filepath="$PROJECT_DIR$/.idea/modules/coding.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding_main.iml" filepath="$PROJECT_DIR$/.idea/modules/coding_main.iml" group="coding" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding_test.iml" filepath="$PROJECT_DIR$/.idea/modules/coding_test.iml" group="coding" />
